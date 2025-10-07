@@ -5,5 +5,8 @@
   <img src="armadillo.png" alt="Armadillo" width="350"/>
 </p>
 
-Armadillo, the state animal of Texas. Thick-skinned like Rhinos and Hippos. A Spanish adjective that endearingly describes something as well built. In this repository, it stands for Associative Recognition Machine-learning Automatic Detection of Interfering Line-noise and Low-frequency Oscillations.
+Armadillo, the state animal of Texas.
+Thick-skinned like Rhinos and Hippos. 
+A Spanish adjective that endearingly describes something as well built. 
+In this repository, it stands for Associative Recognition Machine-learning Automatic Detection of Interfering Line-noise and Low-frequency Oscillations.
 
