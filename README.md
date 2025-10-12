@@ -21,7 +21,7 @@ The main goal is to develop a reliable classifier of neural activity that could 
 - **Data Restructuring**: Behavioral events files are restructured to simplify code that compares features of all possible combinations of behaviors or experimental conditions.
 - **Line-noise and Artifact Handling**: Signal and power spectral density of sample EEG and events of interest are plotted to aid in the exclusion of noisy channels and artifactual events from analysis and classification. Visualization of sample signal can aid in diagnosis of hardware issues. Manual labeling of noise and artifact could aid in the development of classifiers that would automatically identify and exlude noisy channels and artifact.
 - **Brain Plots and Timelapses**: Data and results are easily visualized with 3D plots of electrodes from different views of the brain. Time series of data or results are converted to animated GIFs.
-- **Data Alignments**: Pipeline ensures millisecond precision of alignment of behavioral data to EEG data, improving reliability of results.
+- **Data Alignment**: Pipeline ensures millisecond precision of alignment of behavioral data to EEG data, including new protocol for sync pulse delivery, improving reliability of results.
 
 
 ## Tech Stack:
