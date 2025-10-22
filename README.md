@@ -44,8 +44,16 @@ The main goal is to develop a reliable classifier of neural activity that could 
 - Add more classification methods to pipeline and Elemem codebase (SVM, neural networks).
 - Develop classifier for noisy channels and artifactual events.
 
+## Example Timelapse
+Using timelapse code, may visualize timeseries data (eg. event related potentials, normalized power values, t-statistics) input as a matrix; with every row associated to an electrode with MNI normalized coordinate data. Below an example of a timelapse, which for every time point, displays color coded electrodes in one of the anatomical regions labeled by neurologist.
+<p align="center">
+  <img src="/plots/timelapses/brain_region_all_tasks.gif" alt="Brain Region Timelapse" width="1080"/>
+</p>
+
 ## Example Alignment Corrections
 Task computer time clock runs faster than 1000Hz samples of EEG recording, as shown by the negative slopes in the subplots of "EEG pulses - Event Pulses", which have been retimed relative to the first pulse of each set. This would be corrected by correlating EEG pulse times to event pulse times and inferring EEG offsets. Nevertheless, there could be glitches in computer time that shift the time of a set of pulses. These pulses would previously be unmatched from the correlation, and thus the inferred EEG offset would be inaccurate. In the present method computer time is corrected to account for these errors. This is verified by getting the ratios of the differences between pulses of one set and the differences of matched pulses of a different set and making sure the ratios remain between 0.9975 and 1.0025.
+
+Below, two examples of where such errors occured; before (top) and after (bottom) correction.
 
 <p align="center">
   <img src="/plots/alignment/SC001_AR_session_0_6-mismatch.png" alt="Alignment1" width="1080"/>
