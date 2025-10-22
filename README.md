@@ -62,10 +62,10 @@ Task computer time clock runs faster than 1000Hz samples of EEG recording, as sh
 
 Below, an example where no such errors occurred, and where the correlation inference errors were minimal.
 <p align="center">
-  <img src="/plots/alignment/SC003_AR_session_0_6-mismatch.png" alt="Alignment5" width="1080"/>
+  <img src="/plots/alignment/SC003_AR_session_1_6-mismatch.png" alt="Alignment5" width="1080"/>
 </p>
 <p align="center">
-  <img src="/plots/alignment/SC003_AR_session_0_7-corrected.png" alt="Alignment6" width="1080"/>
+  <img src="/plots/alignment/SC003_AR_session_1_7-corrected.png" alt="Alignment6" width="1080"/>
 </p>
 
 Below, the corrected offset (y-axis) for all sessions (x-axis).
