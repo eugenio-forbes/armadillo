@@ -1,0 +1,26 @@
+{
+    "amplitude_range_mA": [
+      0.1,
+      0.7000000000000001
+    ],
+    "amplitude_search_range_mA": [
+      0.1,
+      0.7000000000000001
+    ],
+    "duration_range_ms": [
+      500,
+      500
+    ],
+    "duration_search_range_ms": [
+      500,
+      500
+    ],
+    "frequency_range_Hz": [
+      200,
+      200
+    ],
+    "frequency_search_range_Hz": [
+      200,
+      200
+    ]
+}

@@ -1,0 +1,37 @@
+Amygdala
+Anterior Hippocampus
+Anterior Occipitotemporal Sulcus
+Anterior Orbital Gyrus
+Collateral Sulcus Anterior
+Collateral Sulcus Posterior
+Entorrhinal Cortex
+Frontal Pole
+Fusiform Gyrus Anterior
+Fusiform Gyrus Posterior
+Gyrus Rectus
+IFG Pars Opercularis
+IFG Pars Orbitalis
+IFG Pars Triangularis
+IFG Prefrontal
+IFG Premotor
+ITG Anterior
+ITG Posterior
+Inferior Occipital Gyrus
+Inferior Rostral Gyrus
+Lateral Orbital Gyrus
+Lateral Orbital Sulcus
+Lingual Gyrus
+Medial Orbital Gyrus
+Middle Hippocampus
+Olfactory Sulcus
+PHG Anterior
+PHG Posterior
+Perirhinal Cortex
+Posterior Hippocampus
+Posterior Occipitotemporal Sulcus
+Posterior Orbital Gyrus
+Temporal Pole
+Transverese Orbital Sulcus
+
+
+

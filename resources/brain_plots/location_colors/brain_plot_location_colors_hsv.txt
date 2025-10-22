@@ -1,0 +1,107 @@
+Var1,Var2,Var3,Var4
+Lateral Orbital Gyrus,255,0,0
+Lateral Orbital Sulcus,255,153,0
+Posterior Orbital Gyrus,204,255,0
+Transvere Orbital Sulcus,51,255,0
+Anterior Orbital Gyrus,0,255,102
+Medial Orbital Sulcus,0,255,255
+Medial Orbital Gyrus,0,102,255
+Frontal Pole,51,0,255
+Olfactory Sulcus,204,0,255
+Gyrus Rectus,255,0,153
+Inferior Rostral Gyrus,255,0,0
+Anterior Cingulate,255,139,0
+Anterior Cingulate Sulcus,232,255,0
+Middle Cingulate Sulcus,93,255,0
+Middle Cingulate,0,255,46
+Posterior Cingulate,0,255,185
+Posterior Cingulate Sulcus,0,185,255
+Anterior Precuneus,0,46,255
+Posterior Precuneus,93,0,255
+Parietooccipital Fissure,232,0,255
+Cuneus,255,0,139
+Calcarine Sulcus,255,0,0
+Lingual Gyrus,255,219,0
+PHG Posterior,73,255,0
+PHG Anterior,0,255,146
+Entorhinal Cortex,0,146,255
+Perirhinal Cortex,73,0,255
+Amygdala,255,0,219
+Anterior Hippocampus,255,0,0
+Middle Hippocampus,255,139,0
+Posterior Hippocampus,232,255,0
+Collateral Sulcus Posterior,93,255,0
+Fusiform Gyrus Posterior,0,255,46
+Posterior Occipitotemporal Sulcus,0,255,185
+Occipitotemporal Sulcus,0,185,255
+Anterior Occipitotemporal Sulcus,0,46,255
+Fusiform Gyrus Anterior,93,0,255
+Collateral Sulcus Anterior,232,0,255
+Temporal Pole,255,0,139
+ITG Anterior,255,0,0
+ITS Anterior,255,153,0
+ITG Posterior,204,255,0
+ITS Posterior,51,255,0
+MTG Posterior,0,255,102
+STS Posterior,0,255,255
+MTG Anterior,0,102,255
+STS Anterior,51,0,255
+STG Anterior,204,0,255
+STG Posterior,255,0,153
+Supramarginal Gyrus,255,0,0
+Angular Gyrus,255,139,0
+Occipitotemporal Junction,232,255,0
+Inferior Occipital Gyrus,93,255,0
+Lateral Occipital Sulcus,0,255,46
+Middle Occipital Gyrus,0,255,185
+Parietooccipital Junction,0,185,255
+Superior Parietal Lobule,0,46,255
+Superior Parietal Sulcus,93,0,255
+Intraparietal Sulcus,232,0,255
+Inferior Parietal Lobule,255,0,139
+Gut Sensory,255,0,0
+Face Sensory,255,170,0
+Hand Sensory,170,255,0
+Upper Body Sensory,0,255,0
+Lower Body Sensory,0,255,170
+Lower Body Motor,0,170,255
+Upper Body Motor,0,0,255
+Hand Motor,170,0,255
+Face Motor,255,0,170
+IFS Premotor,255,0,0
+IFG Premotor,255,96,0
+IFG Pars Opercularis,255,191,0
+IFG Pars Triangularis,223,255,0
+IFG Pars Orbitalis,128,255,0
+IFG Prefrontal,32,255,0
+IFS Prefrontal,0,255,64
+MFG Anterior,0,255,159
+SFS Anterior,0,255,255
+SFS Prefrontal,0,159,255
+MFG Prefrontal,0,64,255
+MFG Premotor,32,0,255
+SFS Premotor,128,0,255
+SFG Premotor,223,0,255
+SFG Prefrontal,255,0,191
+SFG Anterior,255,0,96
+SFG Mesial Anterior,255,0,0
+SFG Mesial Prefrontal,255,255,0
+PRESMA,0,255,0
+SMA,0,255,255
+Paracentral Lobule,0,0,255
+Marginal Sulcus,255,0,255
+Anterior Temporal Operculum,255,0,0
+Posterior Temporal Operculum,255,139,0
+Parietal Operculum,232,255,0
+Central Operculum,93,255,0
+Frontal Operculum Posterior,0,255,46
+Frontal Operculum Anterior,0,255,185
+Insula Anterior,0,185,255
+Insula Middle,0,46,255
+Insula Posterior,93,0,255
+Heschl Gyrus,232,0,255
+Planum Temporale,255,0,139
+Interhemispheric Fissure,255,255,255
+Sylvian Fissure,255,255,255
+Lateral Ventricle,255,255,255
+Corpus Callosum,255,255,255

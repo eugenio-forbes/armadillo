@@ -1,0 +1,47 @@
+Amygdala
+Anterior Cingulate
+Anterior Cingulate Sulcus
+Anterior Hippocampus
+Anterior Occipitotemporal Sulcus
+Anterior Orbital Gyrus
+Anterior Precuneus
+Calcarine Sulcus
+Collateral Sulcus Anterior
+Collateral Sulcus Posterior
+Corpus Callosum
+Cuneus
+Entorhinal Cortex
+Frontal Pole
+Fusiform Gyrus Anterior
+Fusiform Gyrus Posterior
+Gyrus Rectus
+Lingual Gyrus
+Lower Body Motor
+Lower Body Sensory
+Marginal Sulcus
+Medial Orbital Gyrus
+Medial Orbital Sulcus
+Middle Cingulate
+Middle Cingulate Sulcus
+Middle Hippocampus
+Occipitotemporal Sulcus
+Olfactory Sulcus
+PHG Anterior
+PHG Posterior
+PRESMA
+Paracentral Lobule
+Parietooccipital Fissure
+Parietooccipital Junction
+Perirhinal Cortex
+Posterior Cingulate
+Posterior Cingulate Sulcus
+Posterior Hippocampus
+Posterior Occipitotemporal Sulcus
+Posterior Orbital Gyrus
+Posterior Precuneus
+SFG Anterior
+SFG Mesial Anterior
+SFG Mesial Prefrontal
+SFG Prefrontal
+SFG Premotor
+SMA

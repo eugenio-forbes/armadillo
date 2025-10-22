@@ -1,0 +1,9 @@
+period,type,offset,duration
+encoding,baseline,-500,500
+encoding,start,0,3000
+encoding,button,-1500,2500
+encoding,post,3000,500
+retrieval,baseline,-500,500
+retrieval,start,0,4000
+retrieval,button,-1500,2500
+retrieval,post,4000,500

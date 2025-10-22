@@ -1,0 +1,107 @@
+Var1,Var2,Var3,Var4
+Lateral Orbital Gyrus,112,33,88
+Lateral Orbital Sulcus,157,17,78
+Posterior Orbital Gyrus,185,25,65
+Transvere Orbital Sulcus,216,24,50
+Anterior Orbital Gyrus,224,22,56
+Medial Orbital Sulcus,247,72,2
+Medial Orbital Gyrus,247,109,2
+Frontal Pole,242,146,2
+Olfactory Sulcus,238,179,2
+Gyrus Rectus,233,206,2
+Inferior Rostral Gyrus,252,227,0
+Anterior Cingulate,233,12,0
+Anterior Cingulate Sulcus,218,200,0
+Middle Cingulate Sulcus,180,193,0
+Middle Cingulate,153,176,0
+Posterior Cingulate,108,166,32
+Posterior Cingulate Sulcus,63,163,54
+Anterior Precuneus,55,133,91
+Posterior Precuneus,45,120,110
+Parietooccipital Fissure,35,110,120
+Cuneus,20,100,130
+Calcarine Sulcus,100,90,155
+Lingual Gyrus,10,80,190
+PHG Posterior,5,70,220
+PHG Anterior,108,70,220
+Entorhinal Cortex,119,60,190
+Perirhinal Cortex,130,49,173
+Amygdala,145,51,162
+Anterior Hippocampus,156,39,127
+Middle Hippocampus,112,33,88
+Posterior Hippocampus,157,17,78
+Collateral Sulcus Posterior,185,25,65
+Fusiform Gyrus Posterior,216,24,50
+Posterior Occipitotemporal Sulcus,224,22,56
+Occipitotemporal Sulcus,247,72,2
+Anterior Occipitotemporal Sulcus,247,109,2
+Fusiform Gyrus Anterior,242,146,2
+Collateral Sulcus Anterior,238,179,2
+Temporal Pole,233,206,2
+ITG Anterior,252,227,0
+ITS Anterior,233,12,0
+ITG Posterior,218,200,0
+ITS Posterior,180,193,0
+MTG Posterior,153,176,0
+STS Posterior,108,166,32
+MTG Anterior,63,163,54
+STS Anterior,55,133,91
+STG Anterior,45,120,110
+STG Posterior,35,110,120
+Supramarginal Gyrus,20,100,130
+Angular Gyrus,100,90,155
+Occipitotemporal Junction,10,80,190
+Inferior Occipital Gyrus,5,70,220
+Lateral Occipital Sulcus,108,70,220
+Middle Occipital Gyrus,119,60,190
+Parietooccipital Junction,130,49,173
+Superior Parietal Lobule,145,51,162
+Superior Parietal Sulcus,156,39,127
+Intraparietal Sulcus,112,33,88
+Inferior Parietal Lobule,157,17,78
+Gut Sensory,185,25,65
+Face Sensory,216,24,50
+Hand Sensory,224,22,56
+Upper Body Sensory,247,72,2
+Lower Body Sensory,247,109,2
+Lower Body Motor,242,146,2
+Upper Body Motor,238,179,2
+Hand Motor,233,206,2
+Face Motor,252,227,0
+IFS Premotor,233,12,0
+IFG Premotor,218,200,0
+IFG Pars Opercularis,180,193,0
+IFG Pars Triangularis,153,176,0
+IFG Pars Orbitalis,108,166,32
+IFG Prefrontal,63,163,54
+IFS Prefrontal,55,133,91
+MFG Anterior,45,120,110
+SFS Anterior,35,110,120
+SFS Prefrontal,20,100,130
+MFG Prefrontal,100,90,155
+MFG Premotor,10,80,190
+SFS Premotor,5,70,220
+SFG Premotor,108,70,220
+SFG Prefrontal,119,60,190
+SFG Anterior,130,49,173
+SFG Mesial Anterior,145,51,162
+SFG Mesial Prefrontal,156,39,127
+PRESMA,112,33,88
+SMA,157,17,78
+Paracentral Lobule,185,25,65
+Marginal Sulcus,216,24,50
+Anterior Temporal Operculum,112,33,88
+Posterior Temporal Operculum,157,17,78
+Parietal Operculum,185,25,65
+Central Operculum,216,24,50
+Frontal Operculum Posterior,224,22,56
+Frontal Operculum Anterior,247,72,2
+Insula Anterior,247,109,2
+Insula Middle,242,146,2
+Insula Posterior,238,179,2
+Heschl Gyrus,233,206,2
+Planum Temporale,252,227,0
+Interhemispheric Fissure,169,245,244
+Sylvian Fissure,169,245,244
+Lateral Ventricle,169,245,244
+Corpus Callosum,169,245,244

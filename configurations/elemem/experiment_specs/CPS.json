@@ -1,0 +1,23 @@
+{
+  "Bayesian_optimization": {
+    "exploration_bias": 0.25,
+    "kernel_lengthscale_lowerbound": 0.25,
+    "kernel_lengthscale_upperbound": 2.0,
+    "kernel_variance_lowerbound": 0.25,
+    "kernel_variance_upperbound": 4.0,
+    "kernel_white_variance_lowerbound": 0.01,
+    "kernel_white_variance_upperbound": 4.0,
+    "n_initial_samples": 30,
+    "observation_noise": 0.2
+  },
+  "classify_ms": 1200,
+  "default_experiment_duration_secs": 1600,
+  "intertrial_range_ms": [
+    3800,
+    4000
+  ],
+  "n_normalize_events": 25,
+  "poststim_biomarker_lockout_ms": 400,
+  "sham_duration_ms": 500,
+  "with_video_task": true
+}

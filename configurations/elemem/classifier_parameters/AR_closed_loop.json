@@ -1,0 +1,4 @@
+{
+  "circular_buffer_duration_ms": 5000,
+  "morlet_cycles": 5
+}

@@ -1,0 +1,9 @@
+{
+  "intertrial_range_ms": [
+    2750,
+    3250
+  ],
+  "num_sham_trials": 90,
+  "num_stim_trials": 90,
+  "sham_duration_ms": 5000
+}

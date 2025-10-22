@@ -1,0 +1,17 @@
+{
+  "amplitude_mA": 0.5,
+  "amplitude_range_mA": [
+    0,
+    0.5
+  ],
+  "duration_ms": 750,
+  "duration_range_ms": [
+    750,
+    750
+  ],
+  "frequency_Hz": 200,
+  "frequency_range_Hz": [
+    200,
+    200
+  ]
+}

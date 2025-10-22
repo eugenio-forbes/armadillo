@@ -1,0 +1,184 @@
+subject,task,session,feeling_unwell,distraction,distraction_note,testing_error,testing_error_note,seizure,seizure_note,really_bad
+SC001,AR,session_0,0,0,-,1,No sync pulses in practice,0,-,0
+SC001,AR,session_1,0,1,Room service 16 minutes and Vitals 20 minutes,0,-,0,-,0
+SC002,AR,session_0,0,1,No task done,1,No task done,0,-,1
+SC003,AR,session_0,0,0,-,0,-,0,-,0
+SC004,AR,session_0,0,0,-,0,-,0,-,0
+SC005,AR,session_0,0,0,-,0,-,0,-,0
+SC006,AR,session_0,0,1,Phone ringing 2 minutes before end and events throughout,0,-,1,Subclinical events throughout,1
+SC007,AR,session_0,0,1,Intercom in middle and medications before end,1,Subject forgot instructions and struggled with pressing with left hand,0,-,1
+SC008,AR,session_0,0,0,-,0,-,0,-,0
+SC009,AR,session_0,0,0,-,0,-,0,-,0
+SC010,AR,session_0,0,1,Medication 15 minutes before end,0,-,0,-,0
+SC011,AR,session_0,0,0,-,0,-,0,-,0
+SC012,AR,session_0,1,1,Subject was feeling unwell and did not do task,0,-,0,-,1
+SC013,AR,session_0,0,1,Medication in testing 2,1,Something about sync pulses,0,-,0
+SC014,AR,session_0,0,0,-,0,-,0,-,0
+SC015,AR,session_0,0,0,-,1,Stopped but accidentally continued to test 2,0,-,0
+SC016,AR,session_0,1,1,Subject not feeling well at end of test,0,-,0,-,0
+SC017,AR,session_0,0,0,-,0,-,0,-,0
+SC018,AR,session_0,0,0,-,0,-,0,-,0
+SC019,AR,session_0,1,1,Subject feeling unwell and quit after practice,0,-,0,-,1
+SC020,AR,session_0,1,1,Subject was feeling drowsy during session,0,-,0,-,1
+SC020,AR,session_1,0,0,-,0,-,0,-,0
+SC021,AR,session_0,0,0,-,1,DC channel was off before practice test,0,-,0
+SC022,AR,session_0,0,0,-,0,-,0,-,0
+SC023,AR,session_0,0,0,-,1,Trouble understanding instruction during practice,0,-,0
+SC024,AR,session_0,0,0,-,1,Note of subject appearing to press keys at random,0,-,1
+SC024,AR,session_1,0,0,-,1,Note of subject appearing to press at random previous session,0,-,1
+SC025,AR,session_0,0,0,-,0,-,0,-,0
+SC025,AR,session_1,0,0,-,0,-,0,-,0
+SC026,AR,session_0,0,1,Phone ring but person left room,0,-,0,-,0
+SC027,AR,session_0,0,1,Food tray and nurses walk in an hour after start,0,-,0,-,0
+SC028,AR,session_0,0,0,-,1,Glitch in EEG in practice and patient had started study 1 likely,0,-,1
+SC028,AR,session_1,0,0,-,1,Repear study 1 likely and incomplete block 2,0,-,1
+SC029,AR,session_0,0,1,Intercom 21 minutes and phone ring 38 minutes,1,Pushed wrong buttons in practice,0,-,0
+SC030,AR,session_0,0,0,-,0,-,0,-,0
+SC031,AR,session_0,0,1,Phone call 49 minutes,0,-,0,-,0
+SC032,AR,session_0,0,0,-,0,-,0,-,0
+SC033,AR,session_0,1,1,Phone ring 68 minutes,0,-,1,Seizure during last block,0
+SC034,AR,session_0,0,0,-,0,-,0,-,0
+SC035,AR,session_0,0,0,-,0,-,0,-,0
+SC036,AR,session_0,0,0,-,0,-,0,-,0
+SC037,AR,session_0,1,1,Phone ring at 60 minutes,1,Quit before test 2 because of headache,0,-,0
+SC037,AR,session_1,0,0,-,0,-,0,-,0
+SC038,AR,session_0,0,0,-,1,Many glitches and breaks with repeat of practice block,0,-,0
+SC039,AR,session_0,1,1,Visitors talking in session patient unfocused and really distracted/sleepy,0,-,0,-,1
+SC040,AR,session_0,0,1,Not getting instructions,1,Many errors and repeats in other sittings only kept block 1,0,-,0
+SC041,AR,session_0,0,1,A few slight distractions,0,-,0,-,0
+SC042,AR,session_0,0,0,-,1,20 minute break block 1,0,-,0
+SC043,AR,session_0,0,0,-,1,DC was off at start and had to fix responses from keylog,0,-,0
+SC044,AR,session_0,0,0,-,1,Laptop died and had to fix responses from keylog,0,-,0
+SC045,AR,session_0,0,0,-,0,-,0,-,0
+SC046,AR,session_0,1,0,-,1,Micros not synced at first then subject sleepy and just pressing N at end,0,-,1
+SC047,AR,session_0,0,1,Some distractions,1,Not a lot of responses and subject thought most were new,0,-,0
+SC048,AR,session_0,0,1,Loud snoring throughout,1,Grid patient so signal different?,0,-,0
+SC049,AR,session_0,0,1,Some distractions and conversation,1,Syncs connected later and clicking earlier than blue,0,-,0
+SC050,AR,session_0,1,0,-,1,Subject not feeling well and sounds like all was executed poorly,0,-,0
+SC050,AR,session_1,1,0,-,1,Subject not feeling well and sounds like all was executed poorly,0,-,0
+SC051,AR,session_0,0,1,Phone call at 20 minutes,0,-,0,-,0
+SC052,AR,session_0,0,0,-,1,Trouble understanding task but responses look ok. Did not include repeat session.,0,-,0
+SC052,AR,session_1,0,0,-,1,This is repeat session,0,-,1
+SC053,AR,session_0,0,0,-,1,Couldn't complete practice test,0,-,1
+SC054,AR,session_0,0,0,-,1,Automatic split with 12 seconds lost in retrieval 1,0,-,0
+SC054,AR,session_1,0,1,A lot of distractions during 1 block,0,-,0,-,0
+SC055,AR,session_0,0,1,Very distracted with noise,1,Block 1 study repeated,0,-,1
+SC055,AR,session_1,0,0,-,0,-,0,-,0
+SC056,AR,session_0,1,1,Micros cart noise made patient dizzy,1,Recording split into 4 fragments and subject missed more than half responses and less than third correct,0,-,1
+SC057,AR,session_0,1,0,-,1,Pressing T/B the other way in study 1,1,Aura made subject miss half of practice test,0
+SC058,AR,session_0,0,0,-,0,-,0,-,0
+SC058,AR,session_1,0,0,-,0,-,0,-,0
+SC059,AR,session_0,0,1,Test 2 food came in,1,Not understanding instructions during practice,0,-,0
+SC060,AR,session_0,0,1,Phone calls and note of dozing off at the end but responses throughout,0,-,0,-,0
+SC061,AR,session_0,0,0,-,1,DC09 had been duplicated then block 2 with no responses logged,0,-,0
+SC062,AR,session_0,1,1,Sleepy,0,-,0,-,0
+SC062,AR,session_1,1,1,Sleepy,0,-,0,-,0
+SC062,AR,session_2,1,1,Sleepy,0,-,0,-,0
+SC063,AR,session_0,1,1,Got tired at the end,0,-,0,-,0
+SC063,AR,session_1,1,1,Brief distractions,1,CSS late,0,-,0
+SC064,AR,session_0,1,1,Falling asleep at end of practice test and missed test 1,0,-,0,-,1
+SC065,AR,session_0,1,1,Falling asleep and missed more than half of test responses and close to third correct,1,NSP network failure,0,-,1
+SC066,AR,session_0,0,0,-,1,Sometimes struggled with keys and reading,0,-,0
+SC066,AR,session_1,0,0,-,0,-,0,-,0
+SC067,AR,session_0,1,1,Headache after second block,1,Rearranged differently(first new AR) and repeated practice study and would not understand some words,0,-,1
+SC067,AR,session_1,0,1,Nurse came in at 30 mins,1,Rearranged differently,0,-,1
+SC068,AR,session_0,0,1,Phone call at 33 mins,1,Rearranged differently,0,-,1
+SC068,AR,session_1,0,0,-,1,Rearranged differently and EEG frozen not clipped correctly?,0,-,1
+SC068,AR,session_2,0,0,-,1,Rearranged differently,0,-,1
+SC069,AR,session_0,1,1,All test block 3 distracted and some of 4,1,Rearranged differently,0,-,1
+SC069,AR,session_1,1,1,Sleepy at 62 mins,0,-,0,-,0
+SC070,AR,session_0,0,1,-,1,Rearranged differently and restarted practice and cant read numbers and pressing too early and struggling with keys,0,-,1
+SC071,AR,session_0,0,1,Phone call at 31 mins,1,Rearranged differently,0,-,1
+SC072,AR,session_0,0,0,-,1,Rearranged differently and sync pulses in DC channnels different from DC08 and DC09,0,-,1
+SC072,AR,session_1,0,0,-,1,Rearranged differently and no logged responses in first block,0,-,1
+SC073,AR,session_0,0,0,-,1,Rearranged differently,0,-,1
+SC073,AR,session_1,0,0,-,1,Rearranged differently,0,-,1
+SC074,AR,session_0,0,1,Block 1 test distracted,1,Rearranged differently and micro labels not renamed,0,-,1
+SC075,AR,session_0,0,0,-,1,Using keyboard instead of controller up until test 1,0,-,0
+SC075,AR,session_1,0,0,-,0,-,0,-,0
+SC076,AR,session_0,0,1,Phone call at 12 mins,1,Block 4 repeated,0,-,0
+SC076,AR,session_1,0,0,-,1,Block 4 repeated,0,-,0
+SC077,AR,session_0,0,1,Distracted last block,1,Unpaired study last block and the recording was cut right after sync pulse test so there is a slight chance of misalignment or cutting of a few events,0,-,0
+SC078,AR,session_0,0,0,-,1,Issues with sync and laptop died block 3,0,-,0
+SC078,AR,session_1,0,0,-,1,Block 3 repeat,0,-,0
+SC079,AR,session_0,0,0,-,1,Laptop died halfway through block 6,0,-,0
+SC080,AR,session_0,0,1,Trouble understanding encoding and chatty parent,1,Laptop died block 6,0,-,0
+SC081,AR,session_0,0,1,Minimal distraction from dad,0,-,0,-,0
+SC081,AR,session_1,0,0,-,0,-,1,Head nodding at last pairs of words of T6,0
+SC082,AR,session_0,1,1,Tired and brief distractions,0,-,0,-,0
+SC082,AR_stim,session_0,0,1,Minimal distraction,1,Trouble with instructions at practice and didnt remember any words and issues with blackrock signal,0,-,0
+SC083,AR,session_0,0,0,-,1,Micro data lost because of BR issue,0,-,0
+SC083,AR,session_1,0,1,Snoring and nurse in block 3,0,-,0,-,0
+SC083,AR_stim,session_0,0,0,-,1,All responses after block 1 didnt log,0,-,0
+SC084,AR,session_0,1,1,Completed without glasses and tired in block 4,0,-,0,-,0
+SC085,AR,session_0,1,1,Sleep deprived and drowsy and many distractions,1,Mixed up encoding and retrieval tasks,1,Discharges,1
+SC085,AR_stim,session_0,1,1,Subject drowsy with decreased responses by end,1,Subjet had pulled on and removed electrodes,0,-,1
+SC086,AR_stim,session_0,1,1,Headache after block 6 study and phone ring block 3 study,1,Didnt press buttons in practice study,0,-,0
+SC087,AR,session_0,0,0,-,1,Controller issue no logged responses block 2,0,-,0
+SC088,AR,session_0,0,1,Some distraction and breaks,0,-,0,-,0
+SC088,AR_stim,session_0,0,0,-,1,Block 2 math error and repeat,0,-,0
+SC088,AR_stim,session_1,0,0,-,1,Block 2 math error and repeat,0,-,0
+SC089,AR,session_0,0,1,Some minimal distractions,1,EEG tech coming in because of signal disturbance,0,-,0
+SC089,AR_stim,session_0,0,1,Some minimal distractions,1,No sync pulses on clinical but present in BR 1-128,0,-,0
+SC090,AR_stim,session_0,0,0,-,1,Flat signal fixed on BR and noisy channels,1,Push button event with no confirmed discharges or activity 4 word pairs prior to end,0
+SC090,AR,session_0,0,1,Misunderstood task until after block 1 and phone call answered block 4,0,-,0,-,0
+SC091,AR,session_0,0,1,Confusion of keys prior to 2 and interruption at block 2,0,-,0,-,0
+SC091,AR,session_1,0,0,Misunderstood task or did not remember,0,-,0,-,0
+SC091,AR_stim,session_0,0,1,Interruption in practice study,0,-,0,-,0
+SC092,AR_stim,session_0,0,1,Some minimal distractions,0,-,0,-,0
+SC093,AR_stim,session_0,0,0,-,0,-,0,-,0
+SC093,AR,session_0,1,1,Some minimal distractions and headache at end,0,-,0,-,0
+SC093,AR,session_1,0,0,-,0,-,0,-,0
+SC094,AR,session_0,0,1,Minimal distraction,0,-,0,-,0
+SC094,AR_stim,session_0,0,1,Meds in middle of test 1,0,-,0,-,0
+SC095,AR,session_0,0,0,-,0,-,1,Push button event from EMU with confirmed activity during break,0
+SC095,AR,session_1,0,1,Parent on phone throughout,0,-,0,-,0
+SC096,AR,session_0,1,1,Too fast and too sleep deprived and hallucinations,0,-,0,-,1
+SC096,AR,session_1,1,1,Something about disconnect between thoughts and response,0,-,0,-,1
+SC096,AR_Scopolamine,session_0,1,1,Sleep deprived and something about lucid dreaming and hearing voices,0,-,0,-,0
+SC096,AR_Scopolamine,session_1,1,1,Lucid dreaming and lapses and drifting and alcohol and symptom monitoring,0,-,0,-,0
+SC096,AR_Scopolamine,session_2,0,0,-,0,-,0,-,0
+SC097,AR,session_0,0,1,Corrected in practice study,0,-,0,-,0
+SC097,AR,session_1,0,1,Reexplained prior to start,0,-,0,-,0
+SC097,AR_Scopolamine,session_0,1,1,Sleepy and some missed responses after injection,0,-,0,-,0
+SC097,AR_Scopolamine,session_1,0,1,Some minimal distractions,0,-,0,-,0
+SC098,AR_stim,session_0,0,1,Questionable whether responding,1,No visualizable stim artifact during testing,0,-,0
+SC098,AR_stim,session_0,0,1,Some distractions,1,Stim channel had slipped out from jumper cable by end,0,-,0
+SC099,AR,session_0,0,1,Minimal distraction,0,-,0,-,0
+SC100,AR,session_0,0,0,-,0,-,0,-,0
+SC100,AR_Scopolamine,session_0,0,1,OS update popup,1,Micros error,1,Subclinical noted by EMU,0
+SC100,AR_Scopolamine,session_1,1,0,-,1,Symptom monitoring after injection,0,-,0
+SC101,AR_Scopolamine,session_0,0,1,Minimal distractions and parent wanted testing to stop at the end,0,-,0,-,0
+SC101,AR,session_0,0,1,Study interruption incomputer,0,-,0,-,0
+SC102,AR_Scopolamine,session_0,0,1,Minimal distractions,0,-,0,-,0
+SC102,AR_Scopolamine,session_1,1,1,Droopy eyes and tired and bored and not pressing buttons,0,-,0,-,0
+SC103,AR,session_0,0,1,Thinks study goes too quick,0,-,0,-,0
+SC103,AR_Scopolamine,session_0,1,1,Interruptions and closing eyes and had had many seizures night prior,0,-,0,-,1
+SC103,AR_Scopolamine,session_1,1,1,Also falling asleep,0,-,0,-,1
+SC104,AR_Scopolamine,session_0,0,0,-,1,Symptom monitoring,0,-,0
+SC104,AR_Scopolamine,session_1,0,1,Practice interrupted,1,Symptom monitoring and placebo thinking,0,-,0
+SC104,AR,session_0,0,0,-,0,-,0,-,0
+SC105,AR,session_0,0,0,-,0,-,0,-,0
+SC106,AR_Scopolamine,session_0,0,1,Interruptions,1,Sync error,1,Seizures,1
+SC107,AR_Scopolamine,session_0,0,1,Minimal distractions,0,-,0,-,0
+SC107,AR_Scopolamine,session_1,1,1,Minimal distractions and feeling lightheaded,0,-,0,-,0
+SC107,AR,session_0,0,0,-,0,-,0,-,0
+SC108,AR,session_0,0,0,-,0,-,0,-,0
+SC108,AR_Scopolamine,session_0,0,0,-,1,Only pressed one button,0,-,1
+SC108,AR_Scopolamine,session_1,0,0,-,1,Only pressed one button,0,-,1
+SC109,AR,session_0,0,0,-,1,Blackrock accidentally unplugged during bathroom break,0,-,0
+SC109,AR_Scopolamine,session_0,0,1,Minimal distractions,0,-,0,-,0
+SC109,AR_Scopolamine,session_1,0,1,Minimal distractions,0,-,0,-,0
+SC110,AR_Scopolamine,session_0,0,1,Minimal distractions,0,-,0,-,0
+SC110,AR_Scopolamine,session_1,0,0,-,0,-,0,-,0
+SC111,AR,session_0,0,1,Practice too fast and widget popup,0,-,0,-,0
+SC111,AR_Scopolamine,session_0,0,1,Minimal distractions,1,Used keyboard in practice,0,-,0
+SC112,AR_Scopolamine,session_0,0,1,Some distractions,0,-,0,-,0
+SC112,AR_Scopolamine,session_1,0,1,Some distractions,0,-,0,-,0
+SC113,AR,session_0,1,1,Closing eyes in block 4,0,-,0,-,0
+SC114,AR,session_0,0,0,-,1,Only pressing one row of keys,0,-,0
+SC115,AR,session_0,1,1,Nodding off on block 4,0,-,0,-,0
+SC116,AR,session_0,0,0,-,0,-,0,-,0
+SC117,AR,session_0,0,0,-,0,-,0,-,0
+SC118,AR,session_0,0,0,-,0,-,0,-,0
+SC119,AR,session_0,0,0,-,0,-,0,-,0

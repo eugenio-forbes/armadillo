@@ -1,0 +1,54 @@
+Angular Gyrus
+Anterior Orbital Gyrus
+Face Motor
+Face Sensory
+Frontal Pole
+Gut Sensory
+Hand Motor
+Hand Sensory
+IFG Pars Opercularis
+IFG Pars Orbitalis
+IFG Pars Triangularis
+IFS Prefrontal
+IFS Premotor
+ITG Anterior
+ITG Posterior
+ITS Anterior
+ITS Posterior
+Inferior Occipital Gyrus
+Inferior Parietal Lobule
+Intraparietal Sulcus
+Lateral Occipital Sulcus
+Lateral Orbital Gyrus
+Lateral Orbital Sulcus
+Lower Body Motor
+Lower Body Sensory
+MFG Anterior
+MFG Prefrontal
+MFG Premotor
+MTG Anterior
+MTG Posterior
+Middle Occipital Gyrus
+Occipitotemporal Junction
+PRESMA
+Parietooccipital Fissure
+Parietooccipital Junction
+Posterior Orbital Gyrus
+SFG Anterior
+SFG Prefrontal
+SFG Premotor
+SFS Anterior
+SFS Prefrontal
+SFS Premotor
+SMA
+STG Anterior
+STG Posterior
+STS Anterior
+STS Posterior
+Superior Parietal Lobule
+Superior Parietal Sulcus
+Supramarginal Gyrus
+Sylvian Fissure
+Temporal Pole
+Upper Body Motor
+Upper Body Sensory

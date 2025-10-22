@@ -1,0 +1,114 @@
+{
+  "bipolar_electrode_config_file": "SC000_20200101_bi_L0M0.csv",
+  "electrode_config_file": "SC000_20200101_mono_L0M0.csv",
+  "exclude_session": false,
+  "experiment": {
+    "classifier": {
+      "circular_buffer_duration_ms": 5000,
+      "classifier_file": "classifier_SC000_experiment_session0.json",
+      "morlet_cycles": 5
+    },
+    "experiment_specs": {
+      "Bayesian_optimization": {
+        "exploration_bias": 0.25,
+        "kernel_lengthscale_lowerbound": 0.25,
+        "kernel_lengthscale_upperbound": 2.0,
+        "kernel_variance_lowerbound": 0.25,
+        "kernel_variance_upperbound": 4.0,
+        "kernel_white_variance_lowerbound": 0.01,
+        "kernel_white_variance_upperbound": 4.0,
+        "n_initial_samples": 30,
+        "observation_noise": 0.2
+      },
+      "classify_ms": 1200,
+      "default_experiment_duration_secs": 1600,
+      "intertrial_range_ms": [
+        3800,
+        4000
+      ],
+      "n_normalize_events": 25,
+      "poststim_biomarker_lockout_ms": 400,
+      "sham_duration_ms": 500,
+      "with_video_task": true
+    },
+    "optimized_stim_parameters": [
+      "amplitude",
+      "location"
+    ],
+    "previous_sessions": [
+      {
+        "path": "D:\\ElememData\\SC000_2020-01-01_12-00-00"
+      }
+    ],
+    "stim_channels": [
+      {
+        "amplitude_range_mA": [
+          0.1,
+          0.7000000000000001
+        ],
+        "amplitude_search_range_mA": [
+          0.1,
+          0.7000000000000001
+        ],
+        "duration_range_ms": [
+          500,
+          500
+        ],
+        "duration_search_range_ms": [
+          500,
+          500
+        ],
+        "electrodes": "LX1_LX2",
+        "frequency_range_Hz": [
+          200,
+          200
+        ],
+        "frequency_search_range_Hz": [
+          200,
+          200
+        ]
+      },
+      {
+        "amplitude_range_mA": [
+          0.1,
+          0.7000000000000001
+        ],
+        "amplitude_search_range_mA": [
+          0.1,
+          0.7000000000000001
+        ],
+        "duration_range_ms": [
+          500,
+          500
+        ],
+        "duration_search_range_ms": [
+          500,
+          500
+        ],
+        "electrodes": "LX2_LX3",
+        "frequency_range_Hz": [
+          200,
+          200
+        ],
+        "frequency_search_range_Hz": [
+          200,
+          200
+        ]
+      }
+    ],
+    "stim_mode": "closed",
+    "type": "CPS"
+  },
+  "global_settings": {
+    "binned_sampling_rate": 1000,
+    "connect_to_task_laptop": true,
+    "data_dir": "AUTOMATIC",
+    "dc_offset_correction": true,
+    "experiment_config_filename": "AUTOMATIC",
+    "hardware_lnc": true,
+    "lnc_time_constant": 10,
+    "macro_sampling_rate": 1000,
+    "plot_window_length": 6000
+  },
+  "subject": "SC000"
+}

@@ -1,0 +1,10 @@
+{
+  "binned_sampling_rate": 1000,
+  "data_dir": "AUTOMATIC",
+  "dc_offset_correction": true,
+  "experiment_config_filename": "AUTOMATIC",
+  "hardware_lnc": true,
+  "lnc_time_constant": 10,
+  "macro_sampling_rate": 1000,
+  "plot_window_length": 6000
+}

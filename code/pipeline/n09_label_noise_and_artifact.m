@@ -1,0 +1,2 @@
+function n09_label_noise_and_artifact(varargin)
+end
