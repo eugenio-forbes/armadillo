@@ -48,29 +48,29 @@ The main goal is to develop a reliable classifier of neural activity that could 
 Task computer time clock runs faster than 1000Hz samples of EEG recording, as shown by the negative slopes in the subplots of "EEG pulses - Event Pulses", which have been retimed relative to the first pulse of each set. This would be corrected by correlating EEG pulse times to event pulse times and inferring EEG offsets. Nevertheless, there could be glitches in computer time that shift the time of a set of pulses. These pulses would previously be unmatched from the correlation, and thus the inferred EEG offset would be inaccurate. In the present method computer time is corrected to account for these errors. This is verified by getting the ratios of the differences between pulses of one set and the differences of matched pulses of a different set and making sure the ratios remain between 0.9975 and 1.0025.
 
 <p align="center">
-  <img src="/plots/alignment/SC001_AR_session_0_6-mismatch.png" alt="Alignment1" width="900"/>
+  <img src="/plots/alignment/SC001_AR_session_0_6-mismatch.png" alt="Alignment1" width="1080"/>
 </p>
 <p align="center">
-  <img src="/plots/alignment/SC001_AR_session_0_7-corrected.png" alt="Alignment2" width="900"/>
+  <img src="/plots/alignment/SC001_AR_session_0_7-corrected.png" alt="Alignment2" width="1080"/>
 </p>
 <p align="center">
-  <img src="/plots/alignment/SC001_AR_session_0_6-mismatch.png" alt="Alignment3" width="900"/>
+  <img src="/plots/alignment/SC001_AR_session_0_6-mismatch.png" alt="Alignment3" width="1080"/>
 </p>
 <p align="center">
-  <img src="/plots/alignment/SC001_AR_session_0_7-corrected.png" alt="Alignment4" width="900"/>
+  <img src="/plots/alignment/SC001_AR_session_0_7-corrected.png" alt="Alignment4" width="1080"/>
 </p>
 
 Below, an example where no such errors occurred, and where the correlation inference errors were minimal.
 <p align="center">
-  <img src="/plots/alignment/SC001_AR_session_0_6-mismatch.png" alt="Alignment5" width="900"/>
+  <img src="/plots/alignment/SC001_AR_session_0_6-mismatch.png" alt="Alignment5" width="1080"/>
 </p>
 <p align="center">
-  <img src="/plots/alignment/SC001_AR_session_0_7-corrected.png" alt="Alignment6" width="900"/>
+  <img src="/plots/alignment/SC001_AR_session_0_7-corrected.png" alt="Alignment6" width="1080"/>
 </p>
 
 Below, the corrected offset (y-axis) for all sessions (x-axis).
 <p align="center">
-  <img src="/plots/alignment/corrected_offset.jpg" alt="Alignment1" width="900"/>
+  <img src="/plots/alignment/corrected_offset.jpg" alt="Alignment1" width="1080"/>
 </p>
 
 New sync pulse delivery method developed so that this method could be applied automatically.
