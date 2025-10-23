@@ -143,7 +143,7 @@ SC097,AR,session_1,0,1,Reexplained prior to start,0,-,0,-,0
 SC097,AR_Scopolamine,session_0,1,1,Sleepy and some missed responses after injection,0,-,0,-,0
 SC097,AR_Scopolamine,session_1,0,1,Some minimal distractions,0,-,0,-,0
 SC098,AR_stim,session_0,0,1,Questionable whether responding,1,No visualizable stim artifact during testing,0,-,0
-SC098,AR_stim,session_0,0,1,Some distractions,1,Stim channel had slipped out from jumper cable by end,0,-,0
+SC099,AR_stim,session_0,0,1,Some distractions,1,Stim channel had slipped out from jumper cable by end,0,-,0
 SC099,AR,session_0,0,1,Minimal distraction,0,-,0,-,0
 SC100,AR,session_0,0,0,-,0,-,0,-,0
 SC100,AR_Scopolamine,session_0,0,1,OS update popup,1,Micros error,1,Subclinical noted by EMU,0
