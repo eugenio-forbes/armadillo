@@ -104,10 +104,18 @@ Task computer time clock runs faster than 1000Hz samples of EEG recording, as sh
 Below, two examples of where such errors occured; before (top) and after (bottom) correction.
 
 <p align="center">
+  <img src="/plots/alignment/SC001_AR_session_0_4-differentials-after.png" alt="PulseDifferentials1" width="1080"/>
+</p>
+<p align="center">
   <img src="/plots/alignment/SC001_AR_session_0_6-mismatch.png" alt="Alignment1" width="1080"/>
 </p>
 <p align="center">
   <img src="/plots/alignment/SC001_AR_session_0_7-corrected.png" alt="Alignment2" width="1080"/>
+</p>
+
+
+<p align="center">
+  <img src="/plots/alignment/SC002_AR_session_0_4-differentials-after.png" alt="PulseDifferentials2" width="1080"/>
 </p>
 <p align="center">
   <img src="/plots/alignment/SC002_AR_session_0_6-mismatch.png" alt="Alignment3" width="1080"/>
@@ -116,7 +124,7 @@ Below, two examples of where such errors occured; before (top) and after (bottom
   <img src="/plots/alignment/SC002_AR_session_0_7-corrected.png" alt="Alignment4" width="1080"/>
 </p>
 
-Below, an example where no such errors occurred, and where the correlation inference errors were minimal.
+Below, an example where no such errors occurred, and where the correlation inference errors were negligible.
 <p align="center">
   <img src="/plots/alignment/SC003_AR_session_1_6-mismatch.png" alt="Alignment5" width="1080"/>
 </p>
