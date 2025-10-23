@@ -101,7 +101,7 @@ The last example shows only a few channels with noise not exceeding the power of
 ## Example Alignment Corrections
 Task computer time clock runs faster than 1000Hz samples of EEG recording, as shown by the negative slopes in the subplots of "EEG pulses - Event Pulses", which have been retimed relative to the first pulse of each set. This would be corrected by correlating EEG pulse times to event pulse times and inferring EEG offsets. Nevertheless, there could be glitches in computer time that shift the time of a set of pulses. These pulses would previously be unmatched from the correlation, and thus the inferred EEG offset would be inaccurate. In the present method computer time is corrected to account for these errors. This is verified by getting the ratios of the differences between pulses of one set and the differences of matched pulses of a different set and making sure the ratios remain between 0.9975 and 1.0025.
 
-Below, two examples of where such errors occured; before (top) and after (bottom) correction.
+Below, two examples of where such errors occured; with differential ratios showing correctly matched pulses (top), and alignment before (middle) and after (bottom) correction.
 
 <p align="center">
   <img src="/plots/alignment/SC001_AR_session_0_4-differentials-after.png" alt="PulseDifferentials1" width="1080"/>
